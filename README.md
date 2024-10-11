@@ -1,1 +1,1 @@
-# icpn_hub
+# icpn-hub
